@@ -1,0 +1,14 @@
+.header{
+    width: 100vw;
+    height: 200px;
+    background-color: #191970;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo{
+    font-size: 58px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #87CEFA		;
+}
