@@ -1,16 +1,36 @@
-# React + Vite
+# Primeiros Passos React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge" alt="Status">
+</p>
 
-Currently, two official plugins are available:
+Este repositório documenta o início do meu aprendizado em React.js. O foco foi entender a mudança de paradigma do desenvolvimento web tradicional para a biblioteca baseada em componentes, explorando a criação de interfaces dinâmicas e reativas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+### O que foi explorado:
+* Componentização: Criação de componentes funcionais reutilizáveis.
+* JSX: Escrita de estruturas HTML diretamente no JavaScript.
+* Props: Passagem de dados entre componentes pais e filhos.
+* State (useState): Gerenciamento de estados locais para interatividade.
+* Ciclo de Vida: Introdução ao funcionamento dos componentes no DOM.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+### Tecnologias Utilizadas
+| Tecnologia | Descrição |
+| :--- | :--- |
+| React.js | Biblioteca JavaScript para construção de interfaces. |
+| JavaScript (ES6+) | Lógica de programação e manipulação de dados. |
+| Node.js / NPM | Gerenciamento de pacotes e ambiente de execução. |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### Como rodar o projeto
+Para executar este projeto localmente, você precisará do Node.js instalado.
+
+1. Faça o clone do repositório:
+   ```bash
+   git clone [https://github.com/BeaCapelario/primeiros_passos_react.git](https://github.com/BeaCapelario/primeiros_passos_react.git)
