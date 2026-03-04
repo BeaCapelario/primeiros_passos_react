@@ -28,9 +28,3 @@ Este repositório documenta o início do meu aprendizado em React.js. O foco foi
 
 ---
 
-### Como rodar o projeto
-Para executar este projeto localmente, você precisará do Node.js instalado.
-
-1. Faça o clone do repositório:
-   ```bash
-   git clone [https://github.com/BeaCapelario/primeiros_passos_react.git](https://github.com/BeaCapelario/primeiros_passos_react.git)
